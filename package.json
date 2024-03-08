@@ -1,0 +1,19 @@
+{
+  "name": "chai-and-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhamjeet-kushwaha/chai-and-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhamjeet-kushwaha/chai-and-code/issues"
+  },
+  "homepage": "https://github.com/subhamjeet-kushwaha/chai-and-code#readme"
+}
